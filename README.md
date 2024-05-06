@@ -3,11 +3,12 @@ SnapEats is a MERN website that provides a user-friendly interface for ordering 
 
 ### Screenshots
 ![Screenshot (803)](https://github.com/taksh16/SnapEats/assets/126089429/157b4c4b-f042-4e27-9a64-b6af75803a8b)
-![Uploading Screenshot (803).![Screenshot (804)](https://github.com/taksh16/SnapEats/assets/126089429/87148539-086a-4fd4-aef6-119ee0a7369e)
-png…]()
+![Screenshot (804)](https://github.com/taksh16/SnapEats/assets/126089429/43ecafd3-0a67-4421-a468-9f0504b75198)
 ![Screenshot (805)](https://github.com/taksh16/SnapEats/assets/126089429/192b2acd-c555-4eb6-a0cb-b6b1e4bf2592)
 !![Screenshot (807)](https://github.com/taksh16/SnapEats/assets/126089429/e81158b1-53e3-4bb3-beb3-3dd50db470c5)
-[Screenshot (806)](https://github.com/taksh16/SnapEats/assets/126089429/46917c84-3c34-4759-9719-3bcde2c454e9)
+![Screenshot (806)](https://github.com/taksh16/SnapEats/assets/126089429/911e7822-0973-4377-9a52-7316861949fa)
+
+
 
 ### Technologies Used
 * React JS
